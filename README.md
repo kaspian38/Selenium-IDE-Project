@@ -56,6 +56,11 @@ TC02	Login with wrong password	Error message shown	✅
 TC03	Form empty submit	Validation triggered	✅
 
 
-# Selenium-IDE-Project
+# Selenium-IDE-Project-Driver-link
 # My Project 1 "driver.get("http://uitestingplayground.com/sampleapp")"
-# My Project 1 "driver.get("http://uitestingplayground.com/sampleapp")"
+# My Project 2 "driver.get("https://webdriveruniversity.com/Contact-Us/contactus.html")
+# My Project 3 "driver.get("https://testpages.eviltester.com/styled/apps/calculator.html")
+# My Project 4 "driver.get("https://automationintesting.online/"l")
+# My Project 5 "driver.get("https://testpages.eviltester.com/styled/apps/notes/simplenotes.html")
+# My Project 6 "driver.get("https://testpages.eviltester.com/styled/apps/notes/simplenotes.html")
+
