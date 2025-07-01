@@ -21,12 +21,12 @@ class TestMyProject():
   def test_myProject(self):
     self.driver.get("https://webdriveruniversity.com/Contact-Us/contactus.html")
     self.driver.find_element(By.NAME, "first_name").click()
-    self.driver.find_element(By.NAME, "first_name").send_keys("Umar")
+    self.driver.find_element(By.NAME, "first_name").send_keys("Kaspian")
     self.driver.find_element(By.NAME, "last_name").click()
-    self.driver.find_element(By.NAME, "last_name").send_keys("Faruk")
+    self.driver.find_element(By.NAME, "last_name").send_keys("Raihan")
     self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("farukw2020@gmail.com")
+    self.driver.find_element(By.NAME, "email").send_keys("kaspian.raihan5226@gmail.com")
     self.driver.find_element(By.NAME, "message").click()
-    self.driver.find_element(By.NAME, "message").send_keys("Hi, i am Umar Faruk. I forgot my university student portal user password.Please give me my student portal password.")
+    self.driver.find_element(By.NAME, "message").send_keys("Hi, Kaspian Raihan. I forgot my university student portal user password.Please give me my student portal password.")
     self.driver.find_element(By.CSS_SELECTOR, ".contact_button:nth-child(2)").click()
   
